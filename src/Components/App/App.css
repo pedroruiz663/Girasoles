@@ -1,0 +1,8 @@
+    
+.App__Main {
+  padding: 10px 5%;
+}
+
+.App__Main__Row {
+  display: flex;
+}
